@@ -1,5 +1,5 @@
 
-![JennaProxy](image.png)
+![JennaProxy](jennaproxy.png)
 
 # JennaProxy
 
