@@ -1,8 +1,7 @@
+
+![JennaProxy](image.png)
+
 # JennaProxy
-
-## Screenshot
-
-![JennaProxy](jennaproxy.png)
 
 JennaProxy is not affiliated with Epic Games, and it is not intended to provide unfair advantages, cheating capabilities, or to bypass security systems.
 
