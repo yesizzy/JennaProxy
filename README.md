@@ -10,4 +10,4 @@ JennaProxy is not affiliated with Epic Games, and it is not intended to provide 
 
 ## Screenshot
 
-![JennaProxy](image.png)
+![JennaProxy](jennaproxy.png)
